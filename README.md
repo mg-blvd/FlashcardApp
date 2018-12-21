@@ -8,7 +8,7 @@ Flashcard App
  A flasahcard app that shows the answer to the question when the screen is tapped.
 
 ### App Walk-though
-<img src="https://github.com/mg-blvd/FlashcardApp/blob/master/CodePathWeek2.gif?raw=true" width=200><br>
+<img src="https://github.com/mg-blvd/FlashcardApp/blob/master/CodePathWeek4.gif?raw=true" width=200><br>
 
 ## Required
 - [X] Create New Project in Android Studio
